@@ -1,7 +1,7 @@
 Breadgoat - Breadgoat.com
 
 This Python script is just a simple script that uses opencv to read
-a video file and then output images(screenshots) of every 30 frames.
+a local video file and then output images(screenshots) of every 30 frames.
 It only keeps a new screen shot if the current image is different
 from the previous one by a value of '5'.
 this value can be changed in the script, there is a comment stating where.
