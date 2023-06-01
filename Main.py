@@ -1,4 +1,9 @@
+''''
+Webpages i used to compile the below script
+https://www.geeksforgeeks.org/extract-images-from-video-in-python/
+https://stackoverflow.com/questions/22704936/reading-every-nth-frame-from-videocapture-in-opencv
 
+'''
 # Importing all necessary libraries
 import time
 import os
